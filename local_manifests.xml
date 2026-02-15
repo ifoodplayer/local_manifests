@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Remotes -->
+    <remote name="lineageOS" fetch="https://github.com/lineageOS" clone-depth="1" />
+    <remote name="ifoodplayer" fetch="https://github.com/ifoodplayer" clone-depth="1" />
+
+    <!-- Repos -->
+    <!-- Device -->
+    <project path="device/samsung/m11q" name="android_device_samsung_m11q" remote="ifoodplayer" revision="lineage-20" />
+
+    <!-- Kernel -->
+    <project path="kernel/samsung/m11q" name="android_kernel_samsung_m11q" remote="ifoodplayer" revision="lineage-20" />
+
+    <!-- Vendor -->
+    <project path="vendor/samsung/m11q" name="proprietary_vendor_samsung_m11q" remote="ifoodplayer" revision="13-64" />
+
+    <!-- Hardware -->
+    <project path="hardware/samsung" name="android_hardware_samsung" remote="lineageOS" revision="lineage-20" />
+
+</manifest>
