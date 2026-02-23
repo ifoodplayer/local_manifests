@@ -5,6 +5,9 @@
     <remote name="lineageOS" fetch="https://github.com/lineageOS" clone-depth="1" />
     <remote name="ifoodplayer" fetch="https://github.com/ifoodplayer" clone-depth="1" />
 
+    <!-- Removals -->
+    <remove-project name="platform/hardware/samsung/nfc" />
+
     <!-- Repos -->
     <!-- Device -->
     <project path="device/samsung/m11q" name="android_device_samsung_m11q" remote="ifoodplayer" revision="lineage-20" />
