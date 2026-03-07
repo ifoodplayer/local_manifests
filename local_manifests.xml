@@ -13,7 +13,7 @@
     <project path="device/samsung/m11q" name="android_device_samsung_m11q" remote="ifoodplayer" revision="lineage-20" />
 
     <!-- Kernel -->
-    <project path="kernel/samsung/m11q" name="android_kernel_samsung_m11q" remote="ifoodplayer" revision="lineage-20" />
+    <project path="kernel/samsung/sdm450" name="android_kernel_samsung_sdm450" remote="ifoodplayer" revision="lineage-20" />
 
     <!-- Vendor -->
     <project path="vendor/samsung/m11q" name="proprietary_vendor_samsung_m11q" remote="ifoodplayer" revision="13-64" />
