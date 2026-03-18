@@ -10,13 +10,13 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/samsung/m11q" name="android_device_samsung_a02q" remote="ifoodplayer" revision="lineage-19.1" />
+    <project path="device/samsung/a02q" name="android_device_samsung_a02q" remote="ifoodplayer" revision="lineage-19.1" />
 
     <!-- Kernel -->
     <project path="kernel/samsung/sdm450" name="android_kernel_samsung_sdm450" remote="ifoodplayer" revision="lineage-19.1" />
 
     <!-- Vendor -->
-    <project path="vendor/samsung/m11q" name="proprietary_vendor_samsung_a02q" remote="ifoodplayer" revision="12.1-64" />
+    <project path="vendor/samsung/a02q" name="proprietary_vendor_samsung_a02q" remote="ifoodplayer" revision="12.1-64" />
 
     <!-- Hardware -->
     <project path="hardware/samsung" name="android_hardware_samsung" remote="lineageOS" revision="lineage-19.1" />
