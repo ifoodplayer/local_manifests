@@ -6,7 +6,7 @@
     <remote name="ifoodplayer" fetch="https://github.com/ifoodplayer" clone-depth="1" />
 
     <!-- Removals -->
-    <remove-project name="platform/hardware/samsung/nfc" />
+    <remove-project name="hardware/samsung/nfc" />
 
     <!-- Repos -->
     <!-- Device -->
